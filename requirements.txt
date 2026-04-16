@@ -1,0 +1,2 @@
+# 当前推荐使用 journal_fetcher_allinone.py。
+# 它只依赖 Python 标准库，无需安装第三方依赖。
