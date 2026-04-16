@@ -1,6 +1,6 @@
 # Journal Fetcher
 
-推荐使用新文件：
+推荐使用文件：
 
 `journal_fetcher_allinone.py`
 
